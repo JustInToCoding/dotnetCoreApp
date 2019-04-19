@@ -1,0 +1,11 @@
+C:\csprojects\dotnetCoreApp\bin\Debug\netcoreapp2.2\dotnetCoreApp.deps.json
+C:\csprojects\dotnetCoreApp\bin\Debug\netcoreapp2.2\dotnetCoreApp.runtimeconfig.json
+C:\csprojects\dotnetCoreApp\bin\Debug\netcoreapp2.2\dotnetCoreApp.runtimeconfig.dev.json
+C:\csprojects\dotnetCoreApp\bin\Debug\netcoreapp2.2\dotnetCoreApp.dll
+C:\csprojects\dotnetCoreApp\bin\Debug\netcoreapp2.2\dotnetCoreApp.pdb
+C:\csprojects\dotnetCoreApp\obj\Debug\netcoreapp2.2\dotnetCoreApp.csprojAssemblyReference.cache
+C:\csprojects\dotnetCoreApp\obj\Debug\netcoreapp2.2\dotnetCoreApp.csproj.CoreCompileInputs.cache
+C:\csprojects\dotnetCoreApp\obj\Debug\netcoreapp2.2\dotnetCoreApp.AssemblyInfoInputs.cache
+C:\csprojects\dotnetCoreApp\obj\Debug\netcoreapp2.2\dotnetCoreApp.AssemblyInfo.cs
+C:\csprojects\dotnetCoreApp\obj\Debug\netcoreapp2.2\dotnetCoreApp.dll
+C:\csprojects\dotnetCoreApp\obj\Debug\netcoreapp2.2\dotnetCoreApp.pdb
